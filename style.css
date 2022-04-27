@@ -11,12 +11,12 @@ html{
 
 section{
 	width: 100%;
-	height: 800vh;
+	height: 500vh;
 	color: #fff;
 	background: linear-gradient(-45deg, aqua, cyan, blueviolet, coral);
 	background-size: 400% 400%;
 	position: relative;
-	animation: change 10s ease-in-out infinite;
+	animation: change 3s ease-in-out infinite;
 }
 
 h1{
