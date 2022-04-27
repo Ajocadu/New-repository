@@ -25,8 +25,14 @@ body{
 .banner-text h2{
 	text-align: top;
 	color: #black;
-	font-size: 50ox;
-	margin-top: 5%;
+	font-size: 50px;
+	margin-top: 1%;
+}
+.banner-text title{
+	text-align: top;
+	color: #black;
+	font-size: 100px;
+	margin-bottom: 1%;
 }
 .animation-area{
 	background: linear-gradient(to left, #8942a8, #ba382f);
