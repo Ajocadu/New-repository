@@ -24,19 +24,19 @@ body{
 .banner-text h1{
 	text-align: center;
 	color: #black;
-	font-size: 30px;
+	font-size: 42px;
 	margin-bottom: 1%;
 }
 .banner-text h2{
 	text-align: top;
 	color: #black;
-	font-size: 15px;
+	font-size: 25px;
 	margin-top: 1%;
 }
 .banner-text p{
 	text-align: top;
 	color: black;
-	font-size: 10px;
+	font-size: 20px;
 	margin-top: 1%;
 }
 .animation-area{
