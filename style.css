@@ -37,7 +37,7 @@ img{
 	letter-spacing: 2PX;
 	border: 3px solid #fff;
 	position: absolute;
-	top: 20%;
+	top: 25%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 	padding: 5rem 10rem;
@@ -49,7 +49,7 @@ h2{
 	letter-spacing: 2PX;
 	border: 3px solid #fff;
 	position: absolute;
-	top: 8%;
+	top: 15%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 	padding: 5rem 10rem;
@@ -61,7 +61,7 @@ p{
 	letter-spacing: 2PX;
 	border: 3px solid #fff;
 	position: absolute;
-	top: 10%;
+	top: 7%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 	padding: 5rem 10rem;
@@ -72,7 +72,7 @@ h3{
 	letter-spacing: 2PX;
 	border: 3px solid #fff;
 	position: absolute;
-	top: 25%;
+	top: 30%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 	padding: 5rem 10rem;
