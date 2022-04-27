@@ -30,6 +30,7 @@ h1{
 	transform: translate(-50%, -50%);
 	padding: 5rem 10rem;
 }
+
 img{
 	font-size: 5rem;
 	text-transform: uppercase;
@@ -52,6 +53,19 @@ h2{
 	left: 50%;
 	transform: translate(-50%, -50%);
 	padding: 5rem 10rem;
+}
+
+p{
+	font-size: 2rem;
+	text-transform: uppercase;
+	letter-spacing: 2PX;
+	border: 3px solid #fff;
+	position: absolute;
+	top: 70%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	padding: 5rem 10rem;
+}
 }
 
 @keyframes change {
