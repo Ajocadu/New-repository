@@ -36,11 +36,22 @@ img{
 	letter-spacing: 2PX;
 	border: 3px solid #fff;
 	position: absolute;
-	top: 100%;
+	top: 125%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 	padding: 5rem 10rem;
 }
+
+h2{
+	font-size: 5rem;
+	text-transform: uppercase;
+	letter-spacing: 2PX;
+	border: 3px solid #fff;
+	position: absolute;
+	top: 100%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	padding: 5rem 10rem;
 }
 
 @keyframes change {
