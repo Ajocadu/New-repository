@@ -20,19 +20,18 @@ body{
 	text-transform: uppercase;
 	color: #fff;
 	font-size: 20px;
-
+}
+.banner-text h1{
+	text-align: top;
+	color: #black;
+	font-size: 100px;
+	margin-bottom: 1%;
 }
 .banner-text h2{
 	text-align: top;
 	color: #black;
 	font-size: 15px;
 	margin-top: 1%;
-}
-.banner-text title{
-	text-align: top;
-	color: #black;
-	font-size: 100px;
-	margin-bottom: 1%;
 }
 .animation-area{
 	background: linear-gradient(to left, #8942a8, #ba382f);
